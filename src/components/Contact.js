@@ -100,7 +100,7 @@ const Contact = () => {
             },
           }}
         >
-          Contact Me
+          Get In Touch With Me
         </Typography>
         <Typography
           variant="body1"

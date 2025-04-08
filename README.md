@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Ala Ben Chouikhaa - Portfolio
 
 A modern, responsive portfolio website showcasing my skills, projects, and professional experience as a Full Stack Developer.
@@ -79,3 +80,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons from Material-UI
 - Animations powered by Framer Motion
 - Typing effect inspired by Typed.js
+=======
+# Portfolio
+>>>>>>> 33935d9cf0508adab8da069fe922b61648c6b78f

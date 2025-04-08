@@ -11,7 +11,7 @@ const About = () => {
   const theme = useTheme();
   const skills = [
     'React', 'JavaScript', 'Python', 'OpenCV', 'TensorFlow', 'PyTorch', 
-    'Generative AI', 'Large Language Models (LLM)', 'Computer Vision', 
+    'Generative AI', 'LLM', 'Computer Vision', 
     'Deep Learning', 'Machine Learning', 'Natural Language Processing', 
     'Data Science', 'Node.js', 'HTML', 'CSS', 'MongoDB', 'Express'
   ];
